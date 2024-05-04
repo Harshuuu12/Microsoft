@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+/* ========================================= */
+.reg {
+  background-color: rgba(175, 175, 166, 0.752);
+  width: 500px;
+  height: 300px;
+  margin: 100px auto;
+  padding: 25px;
+}
+.reg h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.reg .input {
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.reg span {
+  padding-left: 60px;
+}
+.reg .f-name {
+  font-size: 13px;
+  padding: 7px 3px;
+}
+.reg .l-name {
+  font-size: 13px;
+  padding: 7px 3px;
+}
+.reg .e-mail {
+  text-align: center;
+  font-size: 13px;
+  padding: 7px 120px;
+}
+.reg .password {
+  text-align: center;
+  font-size: 13px;
+  padding: 7px 120px;
+}
+.reg .confirm-pass {
+  text-align: center;
+  font-size: 13px;
+  padding: 7px 120px;
+}
+.reg .btn {
+  margin-left: 60px;
+  padding: 7px 150px;
+  background-color: blue;
+  color: white;
+  font-size: 15px;
+}/*# sourceMappingURL=style.css.map */

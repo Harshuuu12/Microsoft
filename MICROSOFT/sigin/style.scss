@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+/* ========================================= */
+.reg{
+    background-color: rgba(175, 175, 166, 0.752);
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+    padding: 25px;
+    h2{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .input{
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+    span{
+        padding-left: 60px;
+    }
+    .f-name{
+       font-size: 13px;
+        padding: 7px 3px;
+    }
+    .l-name{
+        font-size: 13px;
+        padding: 7px 3px;
+    }
+    .e-mail{
+        text-align: center;
+        font-size: 13px;
+        padding: 7px 120px;
+    }
+    .password{
+        text-align: center;
+        font-size: 13px;
+        padding: 7px 120px;
+    }
+    .confirm-pass{
+        text-align: center;
+        font-size: 13px;
+        padding: 7px 120px;
+    }
+    .btn{
+        margin-left: 60px;
+        padding: 7px 150px;
+        background-color: blue;
+        color: white;
+        font-size: 15px;
+    }
+
+}
